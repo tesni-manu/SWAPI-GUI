@@ -6,6 +6,9 @@
     "4": "https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2016/06/star-wars-battlefront-darth-vader.jpg?itok=SJkaKGXI",
     "5": "https://content.pulse.ea.com/content/legacy/starwars-ea-com/en_GB/starwars/battlefront/news-articles/the-heroes-of-star-wars-battlefront-leia-organa/_jcr_content/featuredImage/renditions/rendition1.img.jpg",
     "6": "https://i0.wp.com/www.heyuguys.com/images/2017/06/Joel-Edgerton-Star-Wars.jpg?fit=1200%2C901&ssl=1",
+    "7": "https://i.pinimg.com/originals/2b/bb/71/2bbb712405c574c6ce78730e00464a8e.jpg",
+    "8": "https://lumiere-a.akamaihd.net/v1/images/r5-d4_main_image_7d5f078e.jpeg?region=374%2C0%2C1186%2C666&width=960",
+    "9": "https://lumiere-a.akamaihd.net/v1/images/image_606ff7f7.jpeg?region=0%2C0%2C1560%2C878&width=960",
     "10": "https://i1.wp.com/splashreport.com/wp-content/uploads/2017/04/Obi-Wan-Kenobi.jpg?fit=982%2C524",
     "13": "https://lumiere-a.akamaihd.net/v1/images/solo-chewbacca-main_80768fa8.jpeg?region=8%2C0%2C1543%2C868&width=960",
     "14": "https://i.kinja-img.com/gawker-media/image/upload/s--q-MDaOXI--/c_scale,f_auto,fl_progressive,q_80,w_800/hitakkzgyrmxxvcvmndf.png",
@@ -35,23 +38,52 @@
     "3": "https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2018/06/solo-chewbacca.jpeg?itok=Wej6wL3q",
     "5": "https://lumiere-a.akamaihd.net/v1/images/Jabba-The-Hutt_b5a08a70.jpeg?region=0%2C0%2C1200%2C675&width=960",
     "6": "https://cdn-images-1.medium.com/max/1200/1*BRJuVwF0LHlmiLT5dB5BWA.png",
+    "7": "https://lumiere-a.akamaihd.net/v1/images/databank_trandoshan_01_169_26a8a28f.jpeg?region=0%2C0%2C1560%2C878&width=960",
+    "8": "https://i.kinja-img.com/gawker-media/image/upload/s--Ip_AH2QD--/c_scale,fl_progressive,q_80,w_800/bx2ksazbxbpfmjqoag55.png",
     "9": "https://fsmedia.imgix.net/22/7b/3c/25/8b63/4d8c/863d/0d1b3208c0ff/dont-talk-to-me-unless-ive-had-my-morning-cup-of-caf--this-ewok-probably.jpeg?auto=format%2Ccompress&dpr=2&w=650",
+    "10": "https://lumiere-a.akamaihd.net/v1/images/databank_sullustan_01_169_01e4c3e0.jpeg?region=0%2C0%2C1560%2C878&width=960",
+    "11": "https://lumiere-a.akamaihd.net/v1/images/databank_neimoidian_01_169_f4d61512.jpeg?region=0%2C0%2C1560%2C878&width=960",
+    "12": "https://vignette.wikia.nocookie.net/o4e/images/c/cd/Gungan%2C_Ankura.jpg/revision/latest?cb=20110417133013",
+    "13": "https://pm1.narvii.com/6174/9452f2af2b5659a96a325279437b8a0b12bd2626_hq.jpg",
+    "14": "http://prod.betootaadvocate.com/wp-content/uploads/2015/10/Sebulba.jpg",
     "15": "https://vignette.wikia.nocookie.net/starwars/images/4/4d/Aayla_Secura_SWE.png/revision/latest?cb=20180121065247"
   },
   "planets": {
     "2": "https://raisingrebels1992.files.wordpress.com/2018/05/alderaan-house-of-organa.jpg?w=890",
     "3": "https://vignette.wikia.nocookie.net/starwars/images/d/d4/Yavin-4-SWCT.png/revision/latest?cb=20181015023938",
     "4": "https://lumiere-a.akamaihd.net/v1/images/Hoth_d074d307.jpeg?region=0%2C0%2C1200%2C675&width=960",
+    "5": "https://lumiere-a.akamaihd.net/v1/images/dagobah_1ab566e6.jpeg?region=38%2C0%2C598%2C299",
+    "6": "https://images-cdn.fantasyflightgames.com/filer_public/6d/9b/6d9ba9a2-7f5a-4b36-833c-cabe97cda0f0/usws32-preview.jpg",
+    "7": "https://vignette.wikia.nocookie.net/starwars/images/1/1d/Endor_BF2.png/revision/latest?cb=20171014232605",
+    "8": "https://vignette.wikia.nocookie.net/battlefront/images/7/79/Naboo_Theed_-_Royal_Palace_%281%29_-_Mikael_Andersson_DICE.jpg/revision/latest?cb=20180322005456",
+    "9": "https://img.wallpapersafari.com/img720/5/48/PZB3jE.jpg",
+    "10": "https://lumiere-a.akamaihd.net/v1/images/databank_kamino_01_169_f9027822.jpeg?region=0%2C0%2C1560%2C878&width=960",
+    "11": "https://vignette.wikia.nocookie.net/starwars/images/6/6d/Geonosis_AotC.png/revision/latest?cb=20121231120327",
     "61": "http://www.gamersheroes.com/wp-content/uploads/2017/11/Star-Wars-Battlefront-2-The-Battle-Of-Jakku-Hidden-Item-Collectibles-Guide-900x506.jpg"
   },
   "starships": {
+    "5": "http://i.imgur.com/AobuhUb.png",
     "9": "https://www.tms-tech.com/wp-content/uploads/2015/07/dead_star.jpg",
+    "10": "https://thenewswheel.com/wp-content/uploads/2018/05/Millennium-Falcon-760x428.jpg",
+    "11": "https://lumiere-a.akamaihd.net/v1/images/Y-Wing-Fighter_0e78c9ae.jpeg?region=0%2C0%2C1536%2C864&width=960",
+    "12": "https://static.businessinsider.com/image/56990929c08a809b088b9d31-750.jpg",
+    "13": "http://i.imgur.com/fsXIC.jpg",
     "15": "https://i.ytimg.com/vi/h6zbETVOzWM/maxresdefault.jpg",
+    "21": "https://lumiere-a.akamaihd.net/v1/images/databank_slavei_01_169_8dc3102d.jpeg?region=0%2C0%2C1560%2C878&width=960",
+    "22": "https://lumiere-a.akamaihd.net/v1/images/Imperial-Sentinel-Class-Shuttle_a2dc7d3b.jpeg?region=349%2C0%2C898%2C898",
+    "23": "https://vignette.wikia.nocookie.net/starwarsmush/images/2/2c/Ship_capital_nebb01.jpg/revision/latest?cb=20090619153131",
     "77": "https://spikeybits.com/wp-content/uploads/2018/10/Screenshot_334-1.jpg"
   },
   "vehicles": {
     "4": "https://vignette.wikia.nocookie.net/starwars/images/f/ff/Sandcrawler.png/revision/latest?cb=20130812001443",
     "6": "https://c1.staticflickr.com/9/8048/8082737018_e82d276d2d_b.jpg",
-    "8": "https://cdna.artstation.com/p/assets/images/images/009/415/064/large/ben-armstrong-tie-ln-low-horizontal-03.jpg?1518866459"
+    "7": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHSqRGShyBKwbRg9mSK8pygOP7zT_4daInmds4q30fe9xiQ1bg",
+    "8": "https://cdna.artstation.com/p/assets/images/images/009/415/064/large/ben-armstrong-tie-ln-low-horizontal-03.jpg?1518866459",
+    "14": "https://cdn3.movieweb.com/i/article/H2liLVVJFMon6gTHaIgQu5wNT8qesL/798:50/Rogue-One-Star-Wars-Story-Snowspeeder-T47-Airspeeder.jpg",
+    "16": "http://spikeybits.com/wp-content/uploads/2016/07/tie-bomber-1.jpg",
+    "18": "https://medias.spotern.com/spots/w640/79182-1532336916.jpg",
+    "19": "https://files.cults3d.com/uploaders/13589180/illustration-file/19180d83-5ddf-43a2-bee0-bbbf3f54197d/ATST%20Rendered_2_large.jpg",
+    "20": "https://vignette.wikia.nocookie.net/starwars/images/3/3b/Cloud-car-v2.png/revision/latest?cb=20160617064429",
+    "24": "https://media.comicbook.com/2018/02/star-wars-jabbas-sail-barge-hasbro-crowdfund-1085664-1280x0.jpeg"
   }
 }
