@@ -1,0 +1,43 @@
+.splash-body {
+  background-image: url("../../img/vader.jpg");
+  height: 1000px;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  text-align: center;
+}
+
+.splash-title {
+  color: #ffded5;
+  text-shadow: 0px 0px 30px #fec9c4, 0px 0px 80px #ff1400, 0px 0px 150px #f00,
+    0px 0px 300px #800;
+  font-size: 64px;
+  font-weight: 300;
+}
+
+.splash-subtitle {
+  color: #d5fff8;
+  text-shadow: 0px 0px 30px #c4fef3, 0px 0px 80px #00ff14, 0px 0px 150px #1bff00,
+    0px 0px 300px #0d2100;
+  font-size: 26px;
+  font-weight: 300;
+  position: absolute;
+  width: 100%;
+  bottom: 30px;
+  text-align: center;
+}
+
+.splash-status {
+  position: absolute;
+  width: 100%;
+  bottom: 120px;
+}
+
+.splash-ok {
+  position: absolute;
+  width: 100%;
+  bottom: 120px;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #e2dcb5;
+  font-size: 14px;
+  padding: 10px 0px 25px;
+}

@@ -1,0 +1,68 @@
+.main-body {
+  background-image: url("../../img/bg.jpg");
+  min-height: 1000px;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-size: 100%;
+  width: 100%;
+}
+
+.main-header {
+  padding: 10px 20px;
+}
+
+.main-title {
+  color: #d5fff8;
+  text-shadow: 0px 0px 30px #c4fef3, 0px 0px 80px #00ff14, 0px 0px 150px #1bff00,
+    0px 0px 300px #0d2100;
+  font-size: 18px;
+  font-weight: 300;
+  margin: 0px;
+}
+
+.main-subheader {
+  background-color: hsl(10, 71%, 51%, 0.8);
+  padding: 8px;
+}
+
+.main-yoda {
+  border: 2px solid #385622;
+  border-radius: 50%;
+}
+
+.main-yoda-says {
+  position: absolute;
+  top: 29px;
+  left: 85px;
+}
+
+.main-wikipedia {
+  background-color: #ffeb3b;
+  padding: 20px;
+  color: #3e2723;
+  margin: 5px;
+  text-align: justify;
+  margin-bottom: 0px;
+  transition: all 200ms ease-out;
+  height: auto;
+  overflow: hidden;
+}
+
+.main-wikipedia-hidden {
+  height: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.main-menuitem {
+  margin: 5px;
+  text-transform: uppercase;
+  color: rgb(236, 197, 145);
+  font-size: 14px;
+  font-family: "arial narrow";
+}
+
+.main-selectedmenuitem {
+  font-weight: bold;
+  color: #f9e1d7;
+}

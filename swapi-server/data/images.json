@@ -1,0 +1,57 @@
+{
+  "people": {
+    "1": "https://i.redd.it/2qmnb44sbt7z.jpg",
+    "2": "https://vignette.wikia.nocookie.net/starwars/images/5/51/C-3PO_EP3.png/revision/latest?cb=20131005124036",
+    "3": "https://www.sideshow.com/storage/product-images/400155/r2-d2_star-wars_gallery_5c4fb8c90e4b3.jpg",
+    "4": "https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2016/06/star-wars-battlefront-darth-vader.jpg?itok=SJkaKGXI",
+    "5": "https://content.pulse.ea.com/content/legacy/starwars-ea-com/en_GB/starwars/battlefront/news-articles/the-heroes-of-star-wars-battlefront-leia-organa/_jcr_content/featuredImage/renditions/rendition1.img.jpg",
+    "6": "https://i0.wp.com/www.heyuguys.com/images/2017/06/Joel-Edgerton-Star-Wars.jpg?fit=1200%2C901&ssl=1",
+    "10": "https://i1.wp.com/splashreport.com/wp-content/uploads/2017/04/Obi-Wan-Kenobi.jpg?fit=982%2C524",
+    "13": "https://lumiere-a.akamaihd.net/v1/images/solo-chewbacca-main_80768fa8.jpeg?region=8%2C0%2C1543%2C868&width=960",
+    "14": "https://i.kinja-img.com/gawker-media/image/upload/s--q-MDaOXI--/c_scale,f_auto,fl_progressive,q_80,w_800/hitakkzgyrmxxvcvmndf.png",
+    "18": "https://lumiere-a.akamaihd.net/v1/images/wedge-bio-4_307c0b66.jpeg?region=0%2C0%2C1280%2C720",
+    "20": "https://www.incimages.com/uploaded_files/image/1940x900/getty_472544068_332130.jpg",
+    "21": "https://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/560146-lucasfilm.jpg?itok=_i4XvBLq&resize=1100x1100",
+    "22": "https://cdn.wegotthiscovered.com/wp-content/uploads/2018/05/Boba-Fett-Solo-a-Star-Wars-Story.jpeg",
+    "23": "https://cdn11.bigcommerce.com/s-2zs1uo/images/stencil/2048x2048/products/233/1010/ig-88statue9__49952.1505940783.jpg?c=2",
+    "24": "https://cdn.segmentnext.com/wp-content/uploads/2017/11/2-8.jpg",
+    "25": "https://cdn.vox-cdn.com/thumbor/_ZgJZtxqy1NuIfxYRHktoFTEF0E=/0x0:1500x844/1200x800/filters:focal(615x142:855x382)/cdn.vox-cdn.com/uploads/chorus_image/image/60314177/6dc8e87e8962fc09e25ec23b7f570be4.0.jpg",
+    "26": "https://lumiere-a.akamaihd.net/v1/images/databank_lobot_01_169_8a50d7ae.jpeg?region=0%2C0%2C1560%2C878&width=960",
+    "27": "https://cdn.vox-cdn.com/thumbor/Nv0VEdNX0NkQAn44F3YZsQD3Cek=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/9897665/databank_ackbar_01_169_55137220.jpeg",
+    "84": "https://images.hellogiggles.com/uploads/2017/05/23182533/Finn_Star_Wars.jpg"
+  },
+  "films": {
+    "1": "https://images-na.ssl-images-amazon.com/images/I/91GAgvnO3AL._RI_.jpg",
+    "2": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "3": "https://mvpo.us/img/P4020.jpg",
+    "4": "https://steemitimages.com/DQmXF42HtdeB67WSWKtxA8UUH77PpJSBtk2XGjAKisnACGJ/star_wars_episode_i__the_phantom_menace_by_christopherowenart-d9200tp.png",
+    "5": "https://itsatrappodcast.com/wp-content/uploads/2015/08/custom_attack_ofthe_clones_dvd_by_theyoungtook.jpg",
+    "6": "https://i.redd.it/tp0q0uujnty01.jpg",
+    "7": "https://timedotcom.files.wordpress.com/2015/11/star-wars-poster.jpg"
+  },
+  "species": {
+    "1": "https://nsfellowship.org/wp-content/uploads/2015/08/male-female-silhouette.jpg",
+    "2": "http://media.comicbook.com/2017/12/sphero-droid-deal-1069882.jpeg",
+    "3": "https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2018/06/solo-chewbacca.jpeg?itok=Wej6wL3q",
+    "5": "https://lumiere-a.akamaihd.net/v1/images/Jabba-The-Hutt_b5a08a70.jpeg?region=0%2C0%2C1200%2C675&width=960",
+    "6": "https://cdn-images-1.medium.com/max/1200/1*BRJuVwF0LHlmiLT5dB5BWA.png",
+    "9": "https://fsmedia.imgix.net/22/7b/3c/25/8b63/4d8c/863d/0d1b3208c0ff/dont-talk-to-me-unless-ive-had-my-morning-cup-of-caf--this-ewok-probably.jpeg?auto=format%2Ccompress&dpr=2&w=650",
+    "15": "https://vignette.wikia.nocookie.net/starwars/images/4/4d/Aayla_Secura_SWE.png/revision/latest?cb=20180121065247"
+  },
+  "planets": {
+    "2": "https://raisingrebels1992.files.wordpress.com/2018/05/alderaan-house-of-organa.jpg?w=890",
+    "3": "https://vignette.wikia.nocookie.net/starwars/images/d/d4/Yavin-4-SWCT.png/revision/latest?cb=20181015023938",
+    "4": "https://lumiere-a.akamaihd.net/v1/images/Hoth_d074d307.jpeg?region=0%2C0%2C1200%2C675&width=960",
+    "61": "http://www.gamersheroes.com/wp-content/uploads/2017/11/Star-Wars-Battlefront-2-The-Battle-Of-Jakku-Hidden-Item-Collectibles-Guide-900x506.jpg"
+  },
+  "starships": {
+    "9": "https://www.tms-tech.com/wp-content/uploads/2015/07/dead_star.jpg",
+    "15": "https://i.ytimg.com/vi/h6zbETVOzWM/maxresdefault.jpg",
+    "77": "https://spikeybits.com/wp-content/uploads/2018/10/Screenshot_334-1.jpg"
+  },
+  "vehicles": {
+    "4": "https://vignette.wikia.nocookie.net/starwars/images/f/ff/Sandcrawler.png/revision/latest?cb=20130812001443",
+    "6": "https://c1.staticflickr.com/9/8048/8082737018_e82d276d2d_b.jpg",
+    "8": "https://cdna.artstation.com/p/assets/images/images/009/415/064/large/ben-armstrong-tie-ln-low-horizontal-03.jpg?1518866459"
+  }
+}

@@ -1,0 +1,67 @@
+.film-body {
+  margin: 5px;
+  border: 1px solid #385622;
+  min-height: 900px;
+  background-color: rgba(79, 80, 50, 0.3);
+  text-align: center;
+}
+
+.film-header {
+  border-bottom: 1px solid #385622;
+  padding-bottom: 15px;
+}
+
+.film-title {
+  color: #d5fff8;
+  text-shadow: 0px 0px 30px #c4fef3, 0px 0px 80px #00ff14, 0px 0px 150px #1bff00,
+    0px 0px 300px #0d2100;
+  font-size: 32px;
+  font-weight: 300;
+  margin: 10px 0px 0px 0px;
+}
+
+.film-clickhelp {
+  color: yellow;
+  font-size: 10px;
+  font-style: italic;
+  margin: 0px;
+  opacity: 0.8;
+}
+
+.film-contents {
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.film-othercontents {
+  margin: 20px;
+}
+
+.film-box {
+  border: 1px solid #ffc92585;
+  background-color: black;
+  width: 190px;
+  display: inline-block;
+  height: 230px;
+  margin: 10px;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.film-name {
+  color: #ff9800;
+  font-size: 18px;
+  font-family: arial narrow;
+  font-weight: 300;
+}
+
+.film-image {
+  max-height: 150px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: middle;
+  height: 100%;
+}
