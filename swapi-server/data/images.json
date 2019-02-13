@@ -10,9 +10,13 @@
     "8": "https://lumiere-a.akamaihd.net/v1/images/r5-d4_main_image_7d5f078e.jpeg?region=374%2C0%2C1186%2C666&width=960",
     "9": "https://lumiere-a.akamaihd.net/v1/images/image_606ff7f7.jpeg?region=0%2C0%2C1560%2C878&width=960",
     "10": "https://i1.wp.com/splashreport.com/wp-content/uploads/2017/04/Obi-Wan-Kenobi.jpg?fit=982%2C524",
+    "12": "https://vignette.wikia.nocookie.net/starwars/images/c/c1/Tarkininfobox.jpg/revision/latest?cb=20100620213033",
     "13": "https://lumiere-a.akamaihd.net/v1/images/solo-chewbacca-main_80768fa8.jpeg?region=8%2C0%2C1543%2C868&width=960",
     "14": "https://i.kinja-img.com/gawker-media/image/upload/s--q-MDaOXI--/c_scale,f_auto,fl_progressive,q_80,w_800/hitakkzgyrmxxvcvmndf.png",
+    "15": "https://i.pinimg.com/736x/60/30/f7/6030f73670225f081a708083a6edbbe7.jpg",
+    "16": "https://lumiere-a.akamaihd.net/v1/images/Jabba-The-Hutt_b5a08a70.jpeg?region=0%2C0%2C1200%2C675&width=960",
     "18": "https://lumiere-a.akamaihd.net/v1/images/wedge-bio-4_307c0b66.jpeg?region=0%2C0%2C1280%2C720",
+    "19": "https://sm.askmen.com/askmen_in/topten/j/jek-tono-p/jek-tono-porkins_jj88.jpg",
     "20": "https://www.incimages.com/uploaded_files/image/1940x900/getty_472544068_332130.jpg",
     "21": "https://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/560146-lucasfilm.jpg?itok=_i4XvBLq&resize=1100x1100",
     "22": "https://cdn.wegotthiscovered.com/wp-content/uploads/2018/05/Boba-Fett-Solo-a-Star-Wars-Story.jpeg",
@@ -21,6 +25,12 @@
     "25": "https://cdn.vox-cdn.com/thumbor/_ZgJZtxqy1NuIfxYRHktoFTEF0E=/0x0:1500x844/1200x800/filters:focal(615x142:855x382)/cdn.vox-cdn.com/uploads/chorus_image/image/60314177/6dc8e87e8962fc09e25ec23b7f570be4.0.jpg",
     "26": "https://lumiere-a.akamaihd.net/v1/images/databank_lobot_01_169_8a50d7ae.jpeg?region=0%2C0%2C1560%2C878&width=960",
     "27": "https://cdn.vox-cdn.com/thumbor/Nv0VEdNX0NkQAn44F3YZsQD3Cek=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/9897665/databank_ackbar_01_169_55137220.jpeg",
+    "28": "https://lumiere-a.akamaihd.net/v1/images/mon-mothma-3-retina_d142ca96.jpeg?region=0%2C0%2C1200%2C509",
+    "29": "http://3.bp.blogspot.com/-BO904g7hNNo/UU1JcJjjWpI/AAAAAAAACgM/chZU88ii3VA/s1600/GreenSquadron.jpg",
+    "30": "https://lumiere-a.akamaihd.net/v1/images/databank_wickettwwarrick_01_169_86d1210c.jpeg?region=0%2C3%2C1560%2C780&width=960",
+    "31": "https://lumiere-a.akamaihd.net/v1/images/databank_niennunb_01_169_31eccf40.jpeg?region=0%2C0%2C1560%2C878&width=960",
+    "45": "https://vignette.wikia.nocookie.net/starwars/images/3/33/BibFortunaHS-ROTJ.png/revision/latest?cb=20130326042806",
+    "81": "https://vignette.wikia.nocookie.net/starwars/images/8/80/Raymus_card_trader.png/revision/latest?cb=20180922045037",
     "84": "https://images.hellogiggles.com/uploads/2017/05/23182533/Finn_Star_Wars.jpg"
   },
   "films": {
@@ -36,6 +46,7 @@
     "1": "https://nsfellowship.org/wp-content/uploads/2015/08/male-female-silhouette.jpg",
     "2": "http://media.comicbook.com/2017/12/sphero-droid-deal-1069882.jpeg",
     "3": "https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2018/06/solo-chewbacca.jpeg?itok=Wej6wL3q",
+    "4": "https://c1.staticflickr.com/8/7436/27529438761_0309a3edf0_b.jpg",
     "5": "https://lumiere-a.akamaihd.net/v1/images/Jabba-The-Hutt_b5a08a70.jpeg?region=0%2C0%2C1200%2C675&width=960",
     "6": "https://cdn-images-1.medium.com/max/1200/1*BRJuVwF0LHlmiLT5dB5BWA.png",
     "7": "https://lumiere-a.akamaihd.net/v1/images/databank_trandoshan_01_169_26a8a28f.jpeg?region=0%2C0%2C1560%2C878&width=960",
@@ -49,6 +60,7 @@
     "15": "https://vignette.wikia.nocookie.net/starwars/images/4/4d/Aayla_Secura_SWE.png/revision/latest?cb=20180121065247"
   },
   "planets": {
+    "1": "https://star-wars.ambient-mixer.com/images_template/0/6/7/0674ab2b02359089ef9276040b0d8b01_full.jpg",
     "2": "https://raisingrebels1992.files.wordpress.com/2018/05/alderaan-house-of-organa.jpg?w=890",
     "3": "https://vignette.wikia.nocookie.net/starwars/images/d/d4/Yavin-4-SWCT.png/revision/latest?cb=20181015023938",
     "4": "https://lumiere-a.akamaihd.net/v1/images/Hoth_d074d307.jpeg?region=0%2C0%2C1200%2C675&width=960",
@@ -59,9 +71,12 @@
     "9": "https://img.wallpapersafari.com/img720/5/48/PZB3jE.jpg",
     "10": "https://lumiere-a.akamaihd.net/v1/images/databank_kamino_01_169_f9027822.jpeg?region=0%2C0%2C1560%2C878&width=960",
     "11": "https://vignette.wikia.nocookie.net/starwars/images/6/6d/Geonosis_AotC.png/revision/latest?cb=20121231120327",
+    "24": "https://vignette.wikia.nocookie.net/starwars/images/8/8d/Nal-hutta.png/revision/latest?cb=20170222012913",
     "61": "http://www.gamersheroes.com/wp-content/uploads/2017/11/Star-Wars-Battlefront-2-The-Battle-Of-Jakku-Hidden-Item-Collectibles-Guide-900x506.jpg"
   },
   "starships": {
+    "2": "https://vignette.wikia.nocookie.net/vsbattles/images/1/17/CR90_Tantive_IV.jpg/revision/latest?cb=20170314164001",
+    "3": "https://vignette.wikia.nocookie.net/starwars/images/8/84/VictoryClassStarDestroyer-SWArmada.png/revision/latest?cb=20160721023340",
     "5": "http://i.imgur.com/AobuhUb.png",
     "9": "https://www.tms-tech.com/wp-content/uploads/2015/07/dead_star.jpg",
     "10": "https://thenewswheel.com/wp-content/uploads/2018/05/Millennium-Falcon-760x428.jpg",
@@ -69,9 +84,13 @@
     "12": "https://static.businessinsider.com/image/56990929c08a809b088b9d31-750.jpg",
     "13": "http://i.imgur.com/fsXIC.jpg",
     "15": "https://i.ytimg.com/vi/h6zbETVOzWM/maxresdefault.jpg",
+    "17": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/2a50fed6-5f37-42b3-aba5-b48c99a0aa08/d78zzb2-a7e4b4e1-3d65-41a0-862e-acda27b76f17.jpg/v1/fill/w_1069,h_748,q_70,strp/rebel_transport_box_art_by_wraithdt_d78zzb2-pre.jpg",
     "21": "https://lumiere-a.akamaihd.net/v1/images/databank_slavei_01_169_8dc3102d.jpeg?region=0%2C0%2C1560%2C878&width=960",
     "22": "https://lumiere-a.akamaihd.net/v1/images/Imperial-Sentinel-Class-Shuttle_a2dc7d3b.jpeg?region=349%2C0%2C898%2C898",
     "23": "https://vignette.wikia.nocookie.net/starwarsmush/images/2/2c/Ship_capital_nebb01.jpg/revision/latest?cb=20090619153131",
+    "27": "https://db4sgowjqfwig.cloudfront.net/campaigns/101516/assets/401429/SP32-20141216-103856.jpg?1418744795",
+    "28": "https://lumiere-a.akamaihd.net/v1/images/screen_shot_2015-05-26_at_5_16a39e17.png?region=0%2C71%2C812%2C457",
+    "29": "https://vignette.wikia.nocookie.net/starwars/images/7/71/BWingsKillISD2-ST.jpg/revision/latest?cb=20151109015327",
     "77": "https://spikeybits.com/wp-content/uploads/2018/10/Screenshot_334-1.jpg"
   },
   "vehicles": {
@@ -84,6 +103,9 @@
     "18": "https://medias.spotern.com/spots/w640/79182-1532336916.jpg",
     "19": "https://files.cults3d.com/uploaders/13589180/illustration-file/19180d83-5ddf-43a2-bee0-bbbf3f54197d/ATST%20Rendered_2_large.jpg",
     "20": "https://vignette.wikia.nocookie.net/starwars/images/3/3b/Cloud-car-v2.png/revision/latest?cb=20160617064429",
-    "24": "https://media.comicbook.com/2018/02/star-wars-jabbas-sail-barge-hasbro-crowdfund-1085664-1280x0.jpeg"
+    "24": "https://media.comicbook.com/2018/02/star-wars-jabbas-sail-barge-hasbro-crowdfund-1085664-1280x0.jpeg",
+    "25": "https://vignette.wikia.nocookie.net/headhuntersholosuite/images/c/ce/Bantha-II_cargo_skiff.jpg/revision/latest?cb=20130428145526",
+    "26": "https://vignette.wikia.nocookie.net/starwars/images/6/65/Tieinter2.jpg/revision/latest?cb=20060705184051",
+    "30": "https://comettv.s3.amazonaws.com/uploads/2017/11/speeder-bike.jpg"
   }
 }
